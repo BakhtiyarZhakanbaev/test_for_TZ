@@ -1,3 +1,5 @@
+import pytest
+
 from utils import get_random_gender, get_user_id_by_gender, get_user_by_id, validate_response_code
 
 
